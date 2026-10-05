@@ -1,0 +1,630 @@
+{
+  "shop": {
+    "name": "PT GAME SHOP",
+    "subtitle": "ร้านเครื่องเกมและเกม PS2 / PS4",
+    "line_url": "#",
+    "phone": ""
+  },
+  "products": [
+    {
+      "name": "Tekken 4",
+      "code": "PS2-T001",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Tekken 5",
+      "code": "PS2-T002",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Getaway",
+      "code": "PS2-T003",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Getaway: Black Monday",
+      "code": "PS2-T004",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Incredible Hulk: Ultimate Destruction",
+      "code": "PS2-T005",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Lord of the Rings: The Two Towers",
+      "code": "PS2-T006",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Lord of the Rings: The Return of the King",
+      "code": "PS2-T007",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Simpsons: Hit & Run",
+      "code": "PS2-T008",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Sims",
+      "code": "PS2-T009",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Sims 2",
+      "code": "PS2-T010",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "The Warriors",
+      "code": "PS2-T011",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "TimeSplitters 2",
+      "code": "PS2-T012",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "TimeSplitters: Future Perfect",
+      "code": "PS2-T013",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Tomb Raider: Legend",
+      "code": "PS2-T014",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Tomb Raider: Underworld",
+      "code": "PS2-T015",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Tony Hawk's American Wasteland",
+      "code": "PS2-T016",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Tony Hawk's Underground",
+      "code": "PS2-T017",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Tony Hawk's Underground 2",
+      "code": "PS2-T018",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Tourist Trophy",
+      "code": "PS2-T019",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Transformers",
+      "code": "PS2-T020",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Transformers: The Game",
+      "code": "PS2-T021",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "True Crime: Streets of LA",
+      "code": "PS2-T022",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "True Crime: New York City",
+      "code": "PS2-T023",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Twisted Metal: Black",
+      "code": "PS2-T024",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Ultimate Spider-Man",
+      "code": "PS2-U001",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Unlimited SaGa",
+      "code": "PS2-U002",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Under the Skin",
+      "code": "PS2-U003",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Urban Reign",
+      "code": "PS2-U004",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Valkyrie Profile 2: Silmeria",
+      "code": "PS2-V001",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Viewtiful Joe",
+      "code": "PS2-V002",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Viewtiful Joe 2",
+      "code": "PS2-V003",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Virtua Fighter 4: Evolution",
+      "code": "PS2-V004",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Virtua Tennis 2",
+      "code": "PS2-V005",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Virtua Striker 3",
+      "code": "PS2-V006",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Warriors Orochi",
+      "code": "PS2-W001",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Warriors Orochi 2",
+      "code": "PS2-W002",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "We Love Katamari",
+      "code": "PS2-W003",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "WWE SmackDown! Here Comes the Pain",
+      "code": "PS2-W004",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "WWE SmackDown! Shut Your Mouth",
+      "code": "PS2-W005",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "WWE SmackDown vs. Raw",
+      "code": "PS2-W006",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "WWE SmackDown vs. Raw 2006",
+      "code": "PS2-W007",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "WWE SmackDown vs. Raw 2007",
+      "code": "PS2-W008",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "WWE SmackDown vs. Raw 2008",
+      "code": "PS2-W009",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "WWE SmackDown vs. Raw 2009",
+      "code": "PS2-W010",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "X-Men Legends",
+      "code": "PS2-X001",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "X-Men Legends II: Rise of Apocalypse",
+      "code": "PS2-X002",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "X-Men: The Official Game",
+      "code": "PS2-X003",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "X2: Wolverine's Revenge",
+      "code": "PS2-X004",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Xenosaga Episode I: Der Wille zur Macht",
+      "code": "PS2-X005",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Xenosaga Episode II: Jenseits von Gut und Bose",
+      "code": "PS2-X006",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Xenosaga Episode III: Also sprach Zarathustra",
+      "code": "PS2-X007",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Yakuza",
+      "code": "PS2-Y001",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Yakuza 2",
+      "code": "PS2-Y002",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Yanya Caballista City Skater",
+      "code": "PS2-Y003",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Yu-Gi-Oh! Capsule Monster Coliseum",
+      "code": "PS2-Y004",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Yu-Gi-Oh! The Duelists of the Roses",
+      "code": "PS2-Y005",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Yu-Gi-Oh! The Falsebound Kingdom",
+      "code": "PS2-Y006",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Zero",
+      "code": "PS2-Z001",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Zone of the Enders",
+      "code": "PS2-Z002",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Zone of the Enders: The 2nd Runner",
+      "code": "PS2-Z003",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Zatch Bell! Mamodo Fury",
+      "code": "PS2-Z004",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    },
+    {
+      "name": "Zatch Bell! Mamodo Battles",
+      "code": "PS2-Z005",
+      "category": "PS2",
+      "price": 25,
+      "stock": 50,
+      "popular": false,
+      "image": "",
+      "size_gb": 0
+    }
+  ]
+}

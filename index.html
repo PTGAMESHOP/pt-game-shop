@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PT GAME SHOP — Catalog</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand" id="shopName">PT GAME SHOP</div>
+    <div class="sub" id="shopSub">ร้านเครื่องเกมและเกม PS2 / PS4</div>
+    <div class="search">
+      <input id="search" type="search" placeholder="🔍 ค้นหาชื่อเกม หรือรหัสเกม">
+      <button onclick="document.getElementById('search').focus()">ค้นหา</button>
+    </div>
+    <div class="tabs" id="tabs"></div>
+  </div>
+</header>
+<main class="wrap content">
+  <section class="hero">
+    <h1>🎮 แคตตาล็อกเกม</h1>
+    <div class="meta" id="count">กำลังโหลด...</div>
+    <div class="letters" id="letters"></div>
+  </section>
+  <section class="grid" id="grid"></section>
+</main>
+<footer class="footer">PT GAME SHOP • Catalog สำหรับลูกค้า</footer>
+<script src="app.js"></script>
+</body>
+</html>
